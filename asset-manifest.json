@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-tesla-clone/static/css/main.6c1028b4.chunk.css",
+    "main.js": "/react-tesla-clone/static/js/main.4cb2d63d.chunk.js",
+    "main.js.map": "/react-tesla-clone/static/js/main.4cb2d63d.chunk.js.map",
+    "runtime-main.js": "/react-tesla-clone/static/js/runtime-main.10c27b63.js",
+    "runtime-main.js.map": "/react-tesla-clone/static/js/runtime-main.10c27b63.js.map",
+    "static/js/2.47cb5bb1.chunk.js": "/react-tesla-clone/static/js/2.47cb5bb1.chunk.js",
+    "static/js/2.47cb5bb1.chunk.js.map": "/react-tesla-clone/static/js/2.47cb5bb1.chunk.js.map",
+    "index.html": "/react-tesla-clone/index.html",
+    "static/css/main.6c1028b4.chunk.css.map": "/react-tesla-clone/static/css/main.6c1028b4.chunk.css.map",
+    "static/js/2.47cb5bb1.chunk.js.LICENSE.txt": "/react-tesla-clone/static/js/2.47cb5bb1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-tesla-clone/static/media/GothamMedium.0a910c0b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10c27b63.js",
+    "static/js/2.47cb5bb1.chunk.js",
+    "static/css/main.6c1028b4.chunk.css",
+    "static/js/main.4cb2d63d.chunk.js"
+  ]
+}
